@@ -31,7 +31,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/streak.svg" alt="Commit streak" width="410">
-  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="20" height="1" alt="">
+  <!-- <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="20" height="1" alt=""> -->
   <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/languages.svg" alt="Most used languages" width="410">
 </div>
 
