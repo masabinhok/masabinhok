@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/eye.svg" width="420" alt="Lurkers versus people who fed him">
+  <img src="https://grub-views.sifarish-less.workers.dev/eye.svg" width="420" alt="Profile views, and people who fed him">
   <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/languages.svg" width="420" alt="Most used languages">
 </p>
 
