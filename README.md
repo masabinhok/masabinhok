@@ -36,24 +36,4 @@
   <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/bare/star.svg" width="420" alt="Stars earned">
 </p>
 
-<p align="center">
-  <img src="https://grub-views.sifarish-less.workers.dev/eye.svg" width="420" alt="Profile views, and people who fed him">
-  <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/bare/languages.svg" width="420" alt="Most used languages">
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/bare/divider.svg" width="840">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/bare/marquee.svg" width="840" alt="Status ticker">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/bare/divider.svg" width="840">
-</p>
-
-<p align="center">
-  <sub>Everything above regenerates daily from
-  <a href="https://github.com/masabinhok/grub">masabinhok/grub</a>.
-  If it looks gray and still, I have some explaining to do.</sub>
-</p>
