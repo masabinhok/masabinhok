@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/bare/streak.svg" width="420" alt="Commit streak">
+  <img src="https://grub-views.sifarish-less.workers.dev/streak.svg" width="420" alt="Commit streak">
   <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/bare/star.svg" width="420" alt="Stars earned">
 </p>
 
