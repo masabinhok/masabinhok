@@ -7,9 +7,6 @@
   Keep what you like, delete the rest — the components are independent.
 -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masabinhok/grub/main/assets/bare/banner.svg" alt="Sabin Shrestha" width="840">
-</p>
 
 
 
